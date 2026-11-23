@@ -57,7 +57,7 @@ const BANDS = [
 ];
 
 const COORDINATOR =
-  "Talk with your team coordinator. They will work with you on what is good for you. You are more important than the team or the conference.";
+  "Talk with Thomson Varghese or Jija Manuel. They will work with you on what is good for you and direct you to pastoral care team. You are more important than the team or the conference.";
 
 const form = document.getElementById("assessment");
 const result = document.getElementById("result");
