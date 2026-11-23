@@ -1,14 +1,14 @@
 // Edit QUESTIONS to change the self-check. Scores stay in this page only.
 const QUESTIONS = [
   "I feel run down and drained of physical or emotional energy.",
-  "I have negative thoughts about UPSTREAM Jubilee.",
+  "I have negative thoughts about UPSTREAM Jubilee Conference.",
   "I am harder and less sympathetic with my teammates than perhaps they deserve.",
   "I am easily irritated by small problems, or by my team.",
   "I feel misunderstood or unappreciated by my teammates.",
   "I feel that I have no one to talk to.",
   "I feel that I am achieving less than I should.",
   "I feel under an unpleasant level of pressure to succeed.",
-  "I feel that I am not getting what I want out of my involvement in UPSTREAM Jubilee.",
+  "I feel that I am not getting what I want out of my involvement in UPSTREAM Jubilee Conference.",
   "I feel that I am on the wrong team or in the wrong ministry.",
   "I am frustrated with parts of my responsibilities.",
   "I feel that ‘JY politics’ or bureaucracy frustrate my ability to do a good job.",
