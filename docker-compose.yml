@@ -1,0 +1,9 @@
+name: burnout-assessment
+
+services:
+  web:
+    build: .
+    image: burnout-assessment:local
+    container_name: burnout-assessment
+    ports:
+      - "4781:4781"
